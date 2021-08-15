@@ -1,0 +1,15 @@
+ID-->1018  UserName-->C1  Symbol-->FB  Updated Price-->7  Updated Time-->2021.06.24 12:06:48 
+ID-->1855  UserName-->C2  Symbol-->FB  Updated Price-->8  Updated Time-->2021.07.24 12:07:14 
+ID-->1018  UserName-->C1  Symbol-->FB  Updated Price-->10  Updated Time-->2021.07.24 12:07:33 
+ID-->1018  UserName-->C1  Symbol-->fb  Updated Price-->2  Updated Time-->2021.08.24 12:08:29 
+ID-->1018  UserName-->C1  Symbol-->FB  Updated Price-->7  Updated Time-->2021.08.24 12:08:42 
+ID-->1855  UserName-->C2  Symbol-->FB  Updated Price-->12  Updated Time-->2021.13.24 12:13:45 
+ID-->1007  UserName-->C3  Symbol-->FB  Updated Price-->7  Updated Time-->2021.26.24 01:26:44 
+ID-->1559  UserName-->C4  Symbol-->FBIZ  Updated Price-->8  Updated Time-->2021.55.24 01:55:43 
+ID-->1827  UserName-->C5  Symbol-->FBIO  Updated Price-->4  Updated Time-->2021.07.24 02:07:57 
+ID-->1827  UserName-->C5  Symbol-->asd  Updated Price-->44  Updated Time-->2021.08.24 02:08:05 
+ID-->1827  UserName-->C5  Symbol-->AAPL  Updated Price-->0.23  Updated Time-->2021.08.24 02:08:22 
+ID-->1601  UserName-->C6  Symbol-->FBIZ  Updated Price-->8  Updated Time-->2021.08.24 02:08:52 
+ID-->1601  UserName-->C6  Symbol-->FBIO  Updated Price-->6  Updated Time-->2021.09.24 02:09:09 
+ID-->1827  UserName-->C5  Symbol-->AAL  Updated Price-->5  Updated Time-->2021.12.24 02:12:30 
+ID-->1812  UserName-->qwe  Symbol-->FB  Updated Price-->6  Updated Time-->2021.21.24 05:21:57 
