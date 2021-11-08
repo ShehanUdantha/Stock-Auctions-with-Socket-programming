@@ -1,9 +1,6 @@
 # Stock-Auctions-with-Socket-programming
 A stock auction is an auction through which different traders can purchase particular securities (items) by bidding on them.
 
-This Programme contains eight .java Files , 1 stocks.csv file, 1 log.txt and 1 README.txt file.
-Main method is in Main.java file.
-
 The command to compile main method of this programme is 
               "javac Main.java".
 To run the Main enter following command in terminal with the bidding time period.
